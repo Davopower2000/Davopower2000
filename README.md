@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Davopower2000
+- 👀 I’m interested in Games Game Development
+- 🌱 I’m currently learning python + C#
+- 📫 How to reach me email: davopower2000@gmail.com
